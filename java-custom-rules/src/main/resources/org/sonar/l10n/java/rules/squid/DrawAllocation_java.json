@@ -1,0 +1,13 @@
+{
+  "title": "Camera Resource Leak",
+  "type": "CODE_SMELL",
+  "status": "ready",
+  "remediation": {
+    "func": "Constant\/Issue",
+    "constantCost": "36d"
+  },
+  "tags": [
+    "energy-smell"
+  ],
+  "defaultSeverity": "Major"
+}
