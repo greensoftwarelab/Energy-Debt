@@ -1,5 +1,5 @@
 {
-  "title": "Camera Resource Leak",
+  "title": "HashMap Usage",
   "type": "CODE_SMELL",
   "status": "ready",
   "remediation": {
